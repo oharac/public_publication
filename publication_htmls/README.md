@@ -11,3 +11,6 @@ Reference archetypes demonstrating wri-html-pages house style
 
 ### [testing_skills_exploration/](testing_skills_exploration/)
 Skill testing and exploration with Palmer Penguins dataset
+
+### [ohi_exploration/](ohi_exploration/)
+Pairwise correlations between OHI 2025 goals
