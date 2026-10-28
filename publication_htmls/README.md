@@ -5,3 +5,6 @@ Data visualizations from testing and analysis
 
 ### [mtcars_exploration/](mtcars_exploration/)
 Motor Trend 1974 car fuel efficiency analysis
+
+### [style_archetypes/](style_archetypes/)
+Reference archetypes demonstrating wri-html-pages house style
